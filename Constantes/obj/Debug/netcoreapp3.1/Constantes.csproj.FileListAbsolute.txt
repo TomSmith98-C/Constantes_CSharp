@@ -1,0 +1,12 @@
+/Users/tom/Desktop/C#/Constantes/Constantes/obj/Debug/netcoreapp3.1/Constantes.csprojAssemblyReference.cache
+/Users/tom/Desktop/C#/Constantes/Constantes/obj/Debug/netcoreapp3.1/Constantes.AssemblyInfoInputs.cache
+/Users/tom/Desktop/C#/Constantes/Constantes/obj/Debug/netcoreapp3.1/Constantes.AssemblyInfo.cs
+/Users/tom/Desktop/C#/Constantes/Constantes/obj/Debug/netcoreapp3.1/Constantes.csproj.CoreCompileInputs.cache
+/Users/tom/Desktop/C#/Constantes/Constantes/bin/Debug/netcoreapp3.1/Constantes.deps.json
+/Users/tom/Desktop/C#/Constantes/Constantes/bin/Debug/netcoreapp3.1/Constantes.runtimeconfig.json
+/Users/tom/Desktop/C#/Constantes/Constantes/bin/Debug/netcoreapp3.1/Constantes.runtimeconfig.dev.json
+/Users/tom/Desktop/C#/Constantes/Constantes/bin/Debug/netcoreapp3.1/Constantes.dll
+/Users/tom/Desktop/C#/Constantes/Constantes/bin/Debug/netcoreapp3.1/Constantes.pdb
+/Users/tom/Desktop/C#/Constantes/Constantes/obj/Debug/netcoreapp3.1/Constantes.dll
+/Users/tom/Desktop/C#/Constantes/Constantes/obj/Debug/netcoreapp3.1/Constantes.pdb
+/Users/tom/Desktop/C#/Constantes/Constantes/obj/Debug/netcoreapp3.1/Constantes.genruntimeconfig.cache
